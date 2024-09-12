@@ -1,0 +1,19 @@
+body{
+    background-color: #3e87be;
+    color: white;
+    text-align: left;
+    font-weight: bold;
+    padding: 0cap;
+    margin-inline-start: auto;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+div{
+    padding: 5px;
+    margin: 10px;
+}
+h2{
+    color: darkblue;
+}
